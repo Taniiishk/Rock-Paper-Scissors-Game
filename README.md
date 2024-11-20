@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game
 
-![Rock Paper Scissors](https://example.com/your-image-url)
+![Rock Paper Scissors]([https://example.com/your-image-url](https://github.com/Taniiishk/Rock-Paper-Scissors-Game/blob/main/sample_images/samp%3Ble_image1.png))
 
 ## 🎮 Description
 Welcome to the Rock Paper Scissors Game! Test your luck and strategy against the computer in this classic game. Choose between rock, paper, or scissors and see if you can beat the computer's choice.
