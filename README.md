@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game
 
-![Rock Paper Scissors]([https://github.com/Taniiishk/Rock-Paper-Scissors-Game/blob/main/sample_images/samp%3Ble_image1.png])
+
 
 ## 🎮 Description
 Welcome to the Rock Paper Scissors Game! Test your luck and strategy against the computer in this classic game. Choose between rock, paper, or scissors and see if you can beat the computer's choice.
@@ -55,9 +55,6 @@ Please make sure to specify the correct location of the image files (`rock.png`,
 3. The computer will make its choice.
 4. The result will be displayed on the screen.
 
-## 📸 Screenshots
-![Screenshot 1](https://example.com/screenshot1-url)
-![Screenshot 2](https://example.com/screenshot2-url)
 
 ## 🤖 Code Overview
 Here's a brief overview of the main components of the code:
