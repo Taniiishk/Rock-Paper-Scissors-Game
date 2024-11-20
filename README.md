@@ -46,6 +46,9 @@ Follow these instructions to get a copy of the project up and running on your lo
     python rock_paper_scissors.py
     ```
 
+## 🔄 Note
+Please make sure to specify the correct location of the image files (`rock.png`, `paper.png`, `scissors.png`) in your code. If the images are not in the specified path, they will not appear in the game.
+
 ## 🎮 How to Play
 1. Launch the game.
 2. Choose either rock, paper, or scissors by clicking the corresponding button.
@@ -86,3 +89,5 @@ def on_button_click(user_choice):
     result = determine_winner(user_choice, computer_choice)
     result_label.config(text=f"Computer chose: {computer_choice}\n{result}")
 ```
+
+
