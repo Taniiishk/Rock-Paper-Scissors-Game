@@ -89,5 +89,14 @@ def on_button_click(user_choice):
     result = determine_winner(user_choice, computer_choice)
     result_label.config(text=f"Computer chose: {computer_choice}\n{result}")
 ```
+## 🤝 Contributing
+If you have suggestions for improving the game or want to contribute, please fork the repository and create a pull request. We appreciate all contributions!
+
+## 📞 Contact
+If you have any questions or feedback, feel free to reach out:
+
+- **Email**: [tanishkrudrawal@gmail.com]
+- **GitHub**: [Taniiishk](https://github.com/Taniiishk)
+
 
 
